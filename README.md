@@ -8,5 +8,5 @@
 3. Github account ([sign up](https://github.com/join))
 4. Download [the courage](https://www.dropbox.com/s/36ifeasvhhshqj8/you_can_do_git?dl=1&pv=1)
 
-R second
+R second hi
 
